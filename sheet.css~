@@ -1,0 +1,7 @@
+#name{
+	text-align:center;
+
+}
+
+#picture{
+	height: 300
