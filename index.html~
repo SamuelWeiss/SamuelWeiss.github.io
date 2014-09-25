@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <link type="text/css" rel="sheet" href="sheet.css">
+        <title>Brett Gurman -- Homepage</title>
+    </head>    
+    <body>
+        <p ID="name">Brett Gurman</p>
+        <img ID="headshot" src="headshot.png" alt="headshot" />
+        <p ID="links">
+            <a href="bio.html">Biography</a>
+            <a href="resume.html">Resume</a>
+        </p>
+    </body>
+</html>
