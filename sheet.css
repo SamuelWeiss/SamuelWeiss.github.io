@@ -1,6 +1,6 @@
 #name{
 	text-align: center;
-
+	font-size: 300%;
 }
 
 #link{
@@ -8,6 +8,7 @@
 }
 
 #picture{
+	text-align: center;
 	height: 320px;
 	width: 239px;
 }
