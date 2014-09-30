@@ -8,6 +8,11 @@
 	font-size:175%;
 }
 
+#shortp{
+	width: 60%;
+	initial: 20%
+}
+
 #link{
 	text-align: center;
 }
