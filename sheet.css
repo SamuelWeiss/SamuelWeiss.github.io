@@ -8,7 +8,9 @@
 }
 
 #picture{
-	text-align: center;
+	display: block;
+    	margin-left: auto;
+    	margin-right: auto;
 	height: 320px;
 	width: 239px;
 }
